@@ -2,7 +2,7 @@
 
 # ANSI Art -----------------------------
 
-# Colourful text art for things like ssh welcome screens. – beeblepete (Pete Fagan)
+# Colourful text art for ssh welcome screens etc. – Pete Fagan / beeblepete / pjfdirect
 
 # ANSI escape codes are non-spaced attributes (they don't take up any character space on
 # the line) that act upon the visible (and spaced whitespace) characters. 
