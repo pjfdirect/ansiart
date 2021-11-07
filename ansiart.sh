@@ -57,7 +57,7 @@ res='\e[0m'       # reset colouring
 
 # Design rows. Var template: $•f$•b
 # Handy hint: use a huge terminal
-# font size during development.
+# font size during development. 
 
 artrow01="   $whf$clb▄▄$whf$whb██$whf$clb▄$whf$whb██$whf$clb▄▄$res"
 artrow02="$brf$clb ▄$whf$whb██$brf$whb▄▄▄▄▄▄$whf$whb███$brf$clb▄$res"
